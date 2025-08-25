@@ -1,0 +1,758 @@
+[
+    {
+        "disease": "Tomato___Late_blight"
+    },
+    {
+        "disease": "Tomato___Late_blight"
+    },
+    {
+        "disease": "Tomato___Late_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Pepper__bell___Bacterial_spot"
+    },
+    {
+        "disease": "Potato___Late_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Potato___Early_blight"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    },
+    {
+        "disease": "Pepper__bell___healthy"
+    }
+]
